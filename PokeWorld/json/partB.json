@@ -1,0 +1,25 @@
+{
+    "waves": [
+        {
+            "speed": 20,
+            "magneton": 1,
+            "gengar": 0
+        },
+        {
+            "speed": 30,
+            "magneton": 1,
+            "gengar": 1
+        },
+        {
+            "speed": 40,
+            "magneton": 1,
+            "gengar": 1
+        },
+        {
+            "speed": 50,
+            "magneton": 1,
+            "gengar": 1
+        }
+        
+    ]
+}

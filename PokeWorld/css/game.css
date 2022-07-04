@@ -1,0 +1,15 @@
+body {
+    margin: 0pt;
+    padding: 40pt;
+    background: url('fondopokegame.jpg');
+    background-position: center;
+    background-repeat: inherit;
+    background-size: auto;
+
+}
+
+canvas {
+    border: 2px solid black;
+    margin: auto;
+    box-shadow: 0 0 15px black;
+}
